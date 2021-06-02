@@ -9,5 +9,9 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
-
+      
+      //HIS-200 related chanhes
+      public void doprocess(){
+       //goes logic here
+       }
 }
